@@ -1,4 +1,6 @@
 ./test
+./idea
+
 ./target
 .gradle
 build/
