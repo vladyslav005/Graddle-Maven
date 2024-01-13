@@ -1,5 +1,5 @@
 ./test
-./idea
+.idea/
 
 ./target
 .gradle
